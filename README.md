@@ -1,8 +1,8 @@
 # Admin-Controller
 # it is a mini program to help system admins who use Linux in general and specially beginners. 
 
-# User-Admin-TUI
-A comprehensive Text-based User Interface (TUI) for managing user accounts and groups on Linux systems. This project enhances system administration by providing an interactive, user-friendly interface for managing common administrative tasks.
+# User-Admin-GUI
+A comprehensive Graphical User Interface (GUI) for managing user accounts and groups on Linux systems. This project enhances system administration by providing an interactive, user-friendly interface for managing common administrative tasks.
 ## Features
 
 ### User Management
